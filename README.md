@@ -14,3 +14,8 @@ Repositorio con los ejercicios y evidencias de los subtalleres del taller de alm
 - [subtaller2](subtaller2): notebook de SQL con Python y su PDF.
 - [subtaller3](subtaller3): notebook de Spark Medallion, PDF y documento de capturas.
 
+## Aclaracion sobre PDF en GitHub
+
+Si GitHub no previsualiza algunos PDF y muestra un error de renderizado, se pueden descargar sin problema.
+El archivo [Taller2jupyter(11abril)/Taller2 AlmcyProc.pdf](Taller2jupyter(11abril)/Taller2%20AlmcyProc.pdf) corresponde al Taller 2 de Almacenamiento y Procesamiento (abril 11).
+
